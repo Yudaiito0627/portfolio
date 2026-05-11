@@ -6,3 +6,8 @@ http://57.180.246.36/<br>
 今後さらに成果物を追加していく予定です。<br>
 段階的に更新をかけ動くシステムとしてまとまりができたら稼働を増やします。<br>
 エージェントとも相談してサーバーの稼働予定を決めていこうと思っています。
+以下はかつて学習に使用したgitリポジトリのURLです。<br>
+https://github.com/Yudaiito0627/easylogin<br>
+https://github.com/Yudaiito0627/contactform<br>
+https://github.com/Yudaiito0627/ecsite<br>
+https://github.com/Yudaiito0627/test<br>
