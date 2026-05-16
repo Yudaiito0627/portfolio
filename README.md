@@ -1,7 +1,14 @@
+ポートフォリオhttps://portfolioproduct.net/<br>
+
+独自ドメイン取得・cloudflaerとユーザ間の通信をhttps接続化 2026/5/16<br>
+EC2はポート443を許可<br>
+Dockerをインストールしnginxをdockerより起動する運用に変更<br>
+これに伴い仮想サーバ本体のnginxはポート競合防止のため停止<br>
+PCローカル環境にVScode,git for windows導入<br>
+
 今後ポートフォリオをこちらに追加していきます。2026/05/11<br>
 AWSの無料枠を利用してEC2を構築しwebアプリ学習・作成の土台として作りました<br>
-ポートフォリオとしてのURLはドメイン取得していないためhttpのIPアドレスとなっています。<br>
-http://57.180.246.36/<br>
+https://portfolioproduct.net/<br>
 まだ動く成果物は乗っていないので停止中です。<br>
 今後さらに成果物を追加していく予定です。<br>
 段階的に更新をかけ動くシステムとしてまとまりができたら稼働を増やします。<br>
